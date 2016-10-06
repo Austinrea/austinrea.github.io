@@ -7,7 +7,7 @@ theme_settings:
   # Meta
   title: Austin James Rea
   avatar:
-  gravatar: # Email MD5 hash
+  gravatar:
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
