@@ -13,10 +13,16 @@ The ability to access your music wherever you are is important to many people an
 
 Bloc Jams is the online music streaming service in which you can store all of your own music and access it anytime, anywhere.
 
+{:.center}
+![]({{ site.baseurl }}/img/bloc_jams_quote.jpg)
+
 ***
 ### Explanation
 
 The reason for building Bloc Jams was to gain knowledge in building a web application from the ground up.  As I am still learning Web Development, it is important to go through, in detail, each stage involved in building such a service and get hands-on experience implementing all the new skills I am learning in a real working model.
+
+{:.center}
+![]({{ site.baseurl }}/img/bloc_jams_tracks.jpg)
 
 ***
 ### Problem
@@ -30,10 +36,16 @@ Learning to code is a process which I have recently started and will be learning
 
 Whilst building the Bloc Jams project, I had continual support from my mentor.  He was there to aid my progress and help me de-bug my code when I couldn’t see where the problems stemmed from.  Whilst he didn’t always give me solutions, he really encouraged me to solve the problems for myself as a real developer.  Additionally he said it was ok to reach out for help when I didn't fully understand something.
 
+{:.center}
+![]({{ site.baseurl }}/img/bloc_jams_banner.jpg)
+
 ***
 ### Results 
 
 Upon completion of the project I have a simple yet elegant and fully functional music streaming Web Application.  Click on the link and try it out for yourself.
+
+{:.center}
+![]({{ site.baseurl }}/img/bloc_jams_player.jpg)
 
 ***
 ### Conclusion
