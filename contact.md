@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/contact.png" 
+feature-img: "img/contact.jpg" 
 ---
 
 Please use the contact form below to submit any enquiries regarding Website or Photography commissions.
