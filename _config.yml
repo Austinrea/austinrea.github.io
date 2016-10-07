@@ -25,7 +25,7 @@ theme_settings:
   dribbble: 
   facebook: Austin.Rea
   flickr: austinrea
-  github: Austinrea
+  github: austinrea
   google_plus:
   instagram: austinjamesrea
   linkedin:  # Full URL
@@ -40,7 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-85391908-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
