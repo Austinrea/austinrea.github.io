@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My experience with Bloc
-feature-img: "img/coding.jpg"
+feature-img: "img/Coding.jpg"
 ---
 After quitting my job and deciding to study Web Development I then had to enrol on a course.&nbsp;  Nowadays there are numerous ways of learning how to code, ranging from online schools with full or part-time courses to intensive in-person boot camps that last anywhere from a few weeks to a few months.&nbsp;  After some research I found an online school that fitted my requirements and was closer to my budget than the competitors.&nbsp;  That’s when I joined [Bloc](https://www.bloc.io/about)!
 

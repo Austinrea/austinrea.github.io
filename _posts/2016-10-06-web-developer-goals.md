@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My goals as a Web Developer
-feature-img: "img/developer.jpg"
+feature-img: "img/Developer.jpg"
 ---
 When I first started thinking about becoming a Web Developer I grew very excited at the prospects of being able to work on my own projects and build things that I had only ever dreamed of.&nbsp;  I often thought about ideas that would enhance the user-experience on websites but I didn’t know how to turn them into reality.
 

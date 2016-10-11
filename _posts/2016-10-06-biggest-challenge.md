@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My biggest challenges in learning to become a Web Developer
-feature-img: "img/programming.jpg"
+feature-img: "img/Programming.jpg"
 ---
 I am going to start off by saying that it has been a pretty rapid and intense ride so far... but a good one.
 
