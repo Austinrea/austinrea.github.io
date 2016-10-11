@@ -127,7 +127,7 @@ img[align=right] {
     background-color: white;
     background-position: 10px 10px;
     background-repeat: no-repeat;
-    padding: 12px 20px 12px 40px;
+    padding: 6px 12px 6px 12px;
 }
 
 .contact textarea {
@@ -135,6 +135,7 @@ img[align=right] {
     max-width: 100%;
     display: block;
     margin: 5px;
+    margin-bottom: 20px;
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 4px;
@@ -142,5 +143,21 @@ img[align=right] {
     background-color: white;
     background-position: 10px 10px;
     background-repeat: no-repeat;
-    padding: 12px 20px 12px 40px;
+    padding: 6px 12px 6px 12px;
+}
+
+.contact input[type="submit"] {
+    color: white;
+    background-color: #ccc;
+    width: auto;
+    margin: auto;
+}
+
+.contact input:hover {
+    background-color: #eee;  
+    color: black;
+}
+
+.contact textarea:hover {
+    background-color: #eee;
 }
