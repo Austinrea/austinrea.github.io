@@ -6,10 +6,10 @@ thumbnail-path: "img/bloc_jams_thumb.jpg"
 short-description: Bloc Jams for iOS is awesome!
 
 ---
-### Summary 
+### Summary
 
 
-The ability to access your music wherever you are is important to many people and with the increased trend of shifting our access to music from physical products to software based services, I present to you - [Bloc Jams](https://austinrea.github.io/bloc-jams/).
+The ability to access your music wherever you are is important to many people and with the increased trend of shifting our access to music from physical products to software based services, I present to you - [Bloc Jams](https://austinrea.github.io/bloc-jams-angular/).
 
 Bloc Jams is the online music streaming service in which you can store all of your own music and access it anytime, anywhere.
 
@@ -44,9 +44,9 @@ Whilst building the Bloc Jams project, I had continual support from my mentor.  
 
 ***
 
-### Results 
+### Results
 
-Upon completion of the project I have a simple yet elegant and fully functional music streaming Web Application.  Click [here](https://austinrea.github.io/bloc-jams/) or on the link at the top and try it out for yourself.
+Upon completion of the project I have a simple yet elegant and fully functional music streaming Web Application.  Click [here](https://austinrea.github.io/bloc-jams-angular/) or on the link at the top and try it out for yourself.
 
 {:.center}
 ![]({{ site.baseurl }}/img/bloc_jams_player.jpg)
@@ -61,4 +61,4 @@ I think it was a good experience not only to learn new skills but to continually
 
 Whilst I wouldn’t have done anything differently, I would have liked more time to be able to research some of the topics in more detail to gain a fuller understanding.
 
-After using my new skills daily, I have more confidence moving forward and in my ability to code and implement ideas in a more timely fashion. 
+After using my new skills daily, I have more confidence moving forward and in my ability to code and implement ideas in a more timely fashion.
