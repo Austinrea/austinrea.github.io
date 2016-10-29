@@ -9,7 +9,7 @@ short-description: Bloc Jams for iOS is awesome!
 ### Summary
 
 
-The ability to access your music wherever you are is important to many people and with the increased trend of shifting our access to music from physical products to software based services, I present to you - [Bloc Jams](https://austinrea.github.io/bloc-jams/).
+The ability to access your music wherever you are is important to many people and with the increased trend of shifting our access to music from physical products to software based services, I present to you - [Bloc Jams](https://austinrea.github.io/bloc-jams-angular/).
 
 Bloc Jams is the online music streaming service in which you can store all of your own music and access it anytime, anywhere.
 
@@ -46,7 +46,7 @@ Whilst building the Bloc Jams project, I had continual support from my mentor.  
 
 ### Results
 
-Upon completion of the project I have a simple yet elegant and fully functional music streaming Web Application.  Click [here](https://austinrea.github.io/bloc-jams/) or on the link at the top and try it out for yourself.
+Upon completion of the project I have a simple yet elegant and fully functional music streaming Web Application.  Click [here](https://austinrea.github.io/bloc-jams-angular/) or on the link at the top and try it out for yourself.
 
 {:.center}
 ![]({{ site.baseurl }}/img/bloc_jams_player.jpg)
